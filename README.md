@@ -1,10 +1,3 @@
-Here is the **complete and enhanced `README.md`** file content for your Buzzle project. You can directly copy and paste this into your project folder under `Buzzle-main/README.md`.
-
----
-
-### ✅ `README.md`
-
-```markdown
 # 📰 Buzzle - Personalized News Platform
 
 Buzzle is a full-stack web application that delivers real-time, curated news to users based on country and category. It features a responsive UI, seamless transitions, and clean code architecture using modern web technologies.
