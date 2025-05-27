@@ -34,16 +34,16 @@ Buzzle-main/
 
 ### Frontend
 - **React.js** (Functional Components + Hooks)
-- **Vite** (fast dev server)
-- **Tailwind CSS** (utility-first styling)
+- **Vite** 
+- **Tailwind CSS** 
 - **Axios** (for API calls)
 - **Responsive UI** using Flex/Grid
 
 ### Backend
 - **Node.js** + **Express.js**
-- **Dotenv** (for environment variable management)
+- **Dotenv** 
 - **CORS** + **Middleware** setup
-- External API integration (likely NewsAPI)
+- External API integration (NewsAPI)
 
 ---
 
@@ -124,13 +124,6 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 Includes background images and icons for UI.
 
----
-
-## 🖼️ Screenshots
-
-> Add UI screenshots here (optional).
-
----
 
 ## 🌐 Deployment
 
@@ -178,23 +171,4 @@ npm run build
 **Swapnashree Sahoo**
 Project developed with 💙 and React
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](LICENSE) file for more details.
-
-```
-
----
-
-Let me know if you want:
-- Markdown badges (Tech stack, status)
-- GitHub Actions setup for deployment
-- More detailed contribution guidelines
-- Auto-generated documentation from code
-
-I can help you polish this to a professional portfolio-ready level if you'd like.
-```
 
